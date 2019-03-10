@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name         = "FMDeviceManager"
   s.version      = "3.2.0"
-  s.summary      = "A short description of FMDeviceManager."
+  s.summary      = "FMDeviceManager"
   s.description  = "FMDeviceManager's description"
 
   s.homepage     = "https://github.com/tongdunmobile/FMDeviceManager"
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.license  	 = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "tongdunmobile" => "appstore@tongdun.cn" }
   s.platform     = :ios
-  s.source       = { :git => "https://github.com/tongdunmobile/FMDeviceManager.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/tongdunmobile/FMDeviceManager.git", :tag => s.version }
  
   s.source_files  = "FMDeviceManager", "FMDeviceManager/**/*.{h,m}"
   s.public_header_files = "FMDeviceManager/**/*.h"
