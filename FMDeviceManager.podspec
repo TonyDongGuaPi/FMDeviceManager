@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.summary      = "FMDeviceManager"
   s.description  = "FMDeviceManager's description"
 
-  s.homepage     = "https://github.com/tongdunmobile/FMDeviceManager"
+  s.homepage     = "https://github.com/TongdunMobileDev/FMDeviceManager"
   s.license      = "MIT"
   s.license  	 = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "tongdunmobile" => "appstore@tongdun.cn" }
