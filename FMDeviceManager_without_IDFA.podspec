@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "FMDeviceManager_without_IDFA"
-  s.version      = "3.2.0"
+  s.version      = "3.2.1"
   s.summary      = "FMDeviceManager_without_IDFA"
   s.description  = "FMDeviceManager_without_IDFA description"
 

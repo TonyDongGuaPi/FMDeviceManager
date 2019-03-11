@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "FMDeviceManager"
-  s.version      = "3.2.0"
+  s.version      = "3.2.1"
   s.summary      = "FMDeviceManager"
   s.description  = "FMDeviceManager's description"
 
